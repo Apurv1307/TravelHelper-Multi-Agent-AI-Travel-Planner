@@ -226,7 +226,7 @@ and how you tested it.
 
 ### Reporting bugs and suggesting ideas
 
-Open an [issue](https://github.com/KalyanM45/TravelBrain-Multi-Agent-AI-Travel-Planner/issues).
+Open an [issue]((https://github.com/Apurv1307/TravelHelper-Multi-Agent-AI-Travel-Planner-main)).
 For bugs, include what you did, what you expected, what happened instead, and
 any error output from the terminal.
 
