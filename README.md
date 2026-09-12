@@ -63,7 +63,7 @@ You'll need the following before you start:
 Clone the repository and move into it:
 
 ```bash
-git clone https://github.com/Apurv1307/TravelHelper-Multi-Agent-AI-Travel-Planner-main
+git clone https://github.com/Apurv1307/TravelHelper-Multi-Agent-AI-Travel-Planner
 cd TravelHelper-Multi-Agent-AI-Travel-Planner
 ```
 
@@ -226,7 +226,7 @@ and how you tested it.
 
 ### Reporting bugs and suggesting ideas
 
-Open an [issue]((https://github.com/Apurv1307/TravelHelper-Multi-Agent-AI-Travel-Planner-main)).
+Open an [issue](https://github.com/Apurv1307/TravelHelper-Multi-Agent-AI-Travel-Planner).
 For bugs, include what you did, what you expected, what happened instead, and
 any error output from the terminal.
 
