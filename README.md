@@ -63,8 +63,7 @@ You'll need the following before you start:
 Clone the repository and move into it:
 
 ```bash
-git clone https://github.com/KalyanM45/TravelBrain-Multi-Agent-AI-Travel-Planner.git
-cd TravelBrain-Multi-Agent-AI-Travel-Planner
+git clone https://github.com/Apurv1307/TravelHelper-Multi-Agent-AI-Travel-Planner-main
 ```
 
 Install the dependencies:
