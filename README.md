@@ -64,6 +64,7 @@ Clone the repository and move into it:
 
 ```bash
 git clone https://github.com/Apurv1307/TravelHelper-Multi-Agent-AI-Travel-Planner-main
+cd TravelHelper-Multi-Agent-AI-Travel-Planner
 ```
 
 Install the dependencies:
